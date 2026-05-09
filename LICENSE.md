@@ -1,4 +1,4 @@
-
+secure Plugin for OBS Studio for macOS - shortcut-customization and motion-tracking offers the most advanced OBS Studio for macOS plugin, with shortcut-customization and
 
 
 
